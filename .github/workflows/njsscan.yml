@@ -31,7 +31,7 @@ jobs:
       run: njsscan --json --output_file scan_results.json
 
     - name: Upload scan results as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: scan-results
         path: scan_results.json
