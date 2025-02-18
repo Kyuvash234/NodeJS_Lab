@@ -1,0 +1,12 @@
+2025-02-18 16:53:04.059 [info] 
+
+
+
+
+2025-02-18 16:53:04.078 [info] Extension host agent started.
+2025-02-18 16:53:04.134 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+2025-02-18 16:53:04.151 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+2025-02-18 16:53:11.929 [info] [127.0.0.1][9f5fdf91][ManagementConnection] New connection established.
+2025-02-18 16:53:14.645 [info] [127.0.0.1][d7c8b8e1][ExtensionHostConnection] New connection established.
+2025-02-18 16:53:14.653 [info] [127.0.0.1][d7c8b8e1][ExtensionHostConnection] <1183> Launched Extension Host Process.
+2025-02-18 17:14:24.538 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
